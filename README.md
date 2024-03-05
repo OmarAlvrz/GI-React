@@ -5,6 +5,7 @@ Buscador:
 ![image](https://github.com/OmarAlvrz/GI-React/assets/127577075/0a79c051-83c1-445c-b32d-436061206123)
 
 Cartas:
+
 ![image](https://github.com/OmarAlvrz/GI-React/assets/127577075/77474296-354e-41b7-97d7-34e2f0d6f16f)
 
 Despliegue de opciones:
